@@ -66,6 +66,9 @@ CampusConnect/
 ├── register.php
 └── .gitignore
 ```
+## 🚀 Live Demo
+
+[🚀 Open CampusConnect](https://campusconnect2026.site.je)
 
 ## Screenshots
 
