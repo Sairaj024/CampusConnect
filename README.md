@@ -65,3 +65,21 @@ CampusConnect/
 ├── logout.php
 ├── register.php
 └── .gitignore
+
+## Screenshots
+
+### Landing Page
+
+![CampusConnect Landing Page](screenshots/landing-page.png)
+
+### Student Dashboard
+
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Announcements
+
+![Announcements](screenshots/announcements.png)
