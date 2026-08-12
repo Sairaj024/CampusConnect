@@ -65,6 +65,7 @@ CampusConnect/
 ├── logout.php
 ├── register.php
 └── .gitignore
+```
 
 ## Screenshots
 
